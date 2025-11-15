@@ -4,8 +4,7 @@ This project demonstrates how to host a secure, high-performance static website 
 
 **Live Website URL:** `dtsmyvykjt1pw.cloudfront.net`
 
-[![ACCESSING WEBSITE VIA CLOUDFRONT](https://github.com/MayielRaja/aws-static-website-project/assets/157897107/1d063071-6c5d-4034-8b6b-163467b7899a)](https://github.com/MayielRaja/aws-static-website-project/assets/157897107/1d063071-6c5d-4034-8b6b-163467b7899a)
-
+<img width="1919" height="1020" alt="ACCESSING WEBSITE VIA CLOUDFRONT" src="https://github.com/user-attachments/assets/59ce3814-bfdb-4e1b-bd3c-c197ca8ea49d" />
 
 ---
 
