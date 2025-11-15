@@ -4,7 +4,7 @@ This project demonstrates how to host a secure, high-performance static website 
 
 **Live Website URL:** `dtsmyvykjt1pw.cloudfront.net`
 
-*(Tip: You can drag one of your screenshots here after uploading to GitHub)*
+<img width="1919" height="1020" alt="ACCESSING WEBSITE VIA CLOUDFRONT" src="https://github.com/user-attachments/assets/9632060e-0e9e-499d-85eb-35afd9dab70b" />
 
 ---
 
